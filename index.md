@@ -107,7 +107,7 @@ skills to researchers.
 Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
   </em>
 </p>
-<a href=https://carpentries-incubator.github.io/better-research-software-r/>Building Better Research Software in R</a> is a pilot workshop.  We will be teaching next steps for doing software development as a researcher, after learning R, the Unix shell, and git/GitHub.  This workshop includes how to create a project, project reproducible environment, test your software, work with collaborators, write documentation, and more!
+<a href="https://carpentries-incubator.github.io/better-research-software-r/">Building Better Research Software in R</a> is a pilot workshop.  We will be teaching next steps for doing software development as a researcher, after learning R, the Unix shell, and git/GitHub.  This workshop includes how to create a project, project reproducible environment, test your software, work with collaborators, write documentation, and more!
 <p>
 
 
@@ -478,5 +478,5 @@ during the workshop.
 <strong>Please check the "Setup" page of
 <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
 to obtain the software and data you will need to follow the lesson.</strong>
-Be sure to check your setup prior to the workshop — the earlier the better. If you need any assistance, please visit the Data Science Hub at <a href=https://datascience.wisc.edu/hub/#dropin>Coding Meetup</a> on Tue/Thur, 2:30-4:30pm.
+Be sure to check your setup prior to the workshop — the earlier the better. If you need any assistance, please visit the Data Science Hub at <a href="https://datascience.wisc.edu/hub/#dropin">Coding Meetup</a> on Tue/Thur, 2:30-4:30pm.
 {% endif %}
