@@ -63,10 +63,10 @@ title: "Building Better Research Software in R"
 incubator_lesson_site: "https://carpentries-incubator.github.io/better-research-software-r/"
 # 
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
-incubator_pre_survey: "put the URL of your pre-workshop survey here"
+incubator_pre_survey: "https://forms.gle/FzyZUBMCtwJcn6yo9"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your post-workshop survey
-incubator_post_survey: "put the URL of your post-workshop survey here"
+incubator_post_survey: "https://forms.gle/VfnKAJ3zYiHvS4sa9"
 #
 #------------------------------------------------------------
 
